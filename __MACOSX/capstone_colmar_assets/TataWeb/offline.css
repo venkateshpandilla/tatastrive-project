@@ -1,0 +1,96 @@
+.jumbotron {
+    min-height: 500px; 
+    overflow: hidden;
+    display: block;
+   padding: auto;
+
+}
+
+footer {
+    margin-top: 10px;
+   
+  }
+
+  .topPadding25{
+    padding-top: 10px;
+    font-size: large;
+    margin-left: 13px;
+  }
+
+  .caption {
+    display: block;
+    
+    font-size: 30px;
+    font-size: large;
+    line-height: 14px;
+    margin-top: 20px;
+    margin-left: 10px;
+   line-height: 30px;
+    position: top;
+    
+   
+    /*background-color: white;
+    color: black;
+    opacity:0.75;*/
+  }
+  .topPadding40{
+    padding-top: 25px;
+  }
+  
+  .content {
+    padding: 60px;
+  }
+  
+  .image {
+    background-image: url("courses-img1.jpg");
+    background-repeat: no-repeat;
+   /* background-size: cover;
+    background-position: center;*/
+    height: 600px;
+    top: 80%;
+    margin-left: 30px;
+  }
+  
+  .writer-img {
+    -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    float: left;
+    width: 50px;
+  }
+
+  footer div {
+    display: flex;
+    align-items: right;
+    padding-left: 30px;
+    justify-content: right;
+  }
+
+  footer img{
+     width: 30px;
+     height: 30px; 
+  }
+
+  a{
+    color: blue;
+  }
+
+  #btn:hover{
+    background-color:forestgreen;
+  }
+  #reset:hover{
+    background-color:red;
+  }
+  
+  .padding15{
+  
+   padding: 15px;
+   margin-top: 30px;
+  }
+  .borderABlue{
+    border: blue;
+  }
+
+  .sidebarTitle1Blue{
+    color:blue;
+  }

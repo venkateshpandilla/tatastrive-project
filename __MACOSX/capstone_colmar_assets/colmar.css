@@ -1,0 +1,55 @@
+.navbar-brand{
+ 
+    padding-right: 1000px;
+    
+}
+
+.banner{
+    padding: 32px 24px;
+}
+
+/*section-1*/
+.section-1{
+    background-color: #d8d8d8;
+    display: flex;
+    width: 100%;
+    height: 100;
+}
+
+.img-wrap {
+    max-width: 100%;
+    max-height: auto;
+    margin: 32px 24px;
+}
+
+.img-wrap img {
+    width: 100%;
+    max-height: auto;
+   /* padding: 32px 24px;*/
+}
+
+.section-1-content {
+display: flex;
+flex-direction: column;
+justify-content: center;
+/*margin: 24px;*/
+width: 60%;
+max-height: 70%;
+overflow: none;
+}
+
+.section-1-content h1 {
+    font-size: 2.7rem;
+    line-height: 2.5rem;
+    color: #4a4a4a;
+    padding-bottom: 50px;
+}
+
+.section-1-content p {
+    font-size: 1.3rem;
+    padding-bottom: 30px;
+}
+
+.section-1-content .btn {
+    background-color: #4a4a4a;
+}
